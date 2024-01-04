@@ -54,10 +54,6 @@ Lemon Web Application is a dynamic web application built using Django as part of
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for checking out Lemon Web Application. We hope you find it useful and enjoy using it! If you have any questions or need assistance, please feel free to contact us. Happy coding! 🍋
